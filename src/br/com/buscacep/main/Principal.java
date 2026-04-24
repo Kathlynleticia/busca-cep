@@ -17,7 +17,7 @@ public class Principal {
         List<Endereco> enderecos = new ArrayList<>();
 
         while (!cep.equalsIgnoreCase("sair")) {
-            System.out.println("Digite um número de CEP, (apenas numeros) ou sair para finalizar. ");
+            System.out.println("Digite o CEP para busca (apenas numeros) ou 'sair'  para finalizar. ");
             cep = scanner.nextLine();
 
             if (cep.equalsIgnoreCase("sair"))
