@@ -2,7 +2,8 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![API](https://img.shields.io/badge/API-ViaCEP-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/status-finalizado-green?style=for-the-badge)
+
 
 ---
 
@@ -71,4 +72,11 @@ Os dados são persistidos em um arquivo JSON local, sendo sobrescritos a cada ex
 - Estruturação de projetos em Java
 - Leitura e escrita de arquivos
 - Organização de código
+
+## Demonstração - Execução do sistema<br>
+<br>
+
+![Execução do sistema](images/execucao.jpg)<br>
+<br>
+![Arquivo JSON gerado](images/json.jpg)
 
