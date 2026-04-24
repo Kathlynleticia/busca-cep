@@ -42,7 +42,7 @@ Pré-requisitos
 
 ## Passo a passo
 - Clone o repositório:
-git clone https://seu-repositorio-aqui.git
+git clone https://github.com/Kathlynleticia/busca-cep
 - Abra o projeto na IDE IntelliJ IDEA
 - Execute a classe principal (Main)
 - Informe o CEP desejado no console
