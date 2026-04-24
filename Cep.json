@@ -1,0 +1,30 @@
+[
+  {
+    "cep": "53180-211",
+    "logradouro": "Travessa Castro Alves",
+    "complemento": "",
+    "localidade": "Olinda",
+    "uf": "PE"
+  },
+  {
+    "cep": "52081-526",
+    "logradouro": "Rua Pardal",
+    "complemento": "",
+    "localidade": "Recife",
+    "uf": "PE"
+  },
+  {
+    "cep": "52011-090",
+    "logradouro": "Rua Esmeraldino Bandeira",
+    "complemento": "",
+    "localidade": "Recife",
+    "uf": "PE"
+  },
+  {
+    "cep": "54771-681",
+    "logradouro": "Travessa Doutor Luiz de Andrade Lima Neto",
+    "complemento": "",
+    "localidade": "Camaragibe",
+    "uf": "PE"
+  }
+]
