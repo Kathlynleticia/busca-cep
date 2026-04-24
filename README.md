@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 O **BuscaCEP** é uma aplicação desenvolvida em Java que realiza consultas de endereços a partir de um CEP utilizando a API pública do ViaCep.<br>
 
@@ -41,8 +41,10 @@ Pré-requisitos
 - Conexão com a internet
 
 ## Passo a passo
-- Clone o repositório:
-git clone https://github.com/Kathlynleticia/busca-cep
+- Clone o repositório
+```bash
+git clone https://github.com/Kathlynleticia/conversor-de-moedas
+```
 - Abra o projeto na IDE IntelliJ IDEA
 - Execute a classe principal (Main)
 - Informe o CEP desejado no console
@@ -80,3 +82,7 @@ Os dados são persistidos em um arquivo JSON local, sendo sobrescritos a cada ex
 <br>
 ![Arquivo JSON gerado](images/json.jpg)
 
+
+### 🙋🏻 Autor
+
+Projeto desenvolvido por Kathlyn Santos durante os estudos iniciais em Java.
