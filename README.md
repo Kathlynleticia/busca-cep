@@ -1,7 +1,7 @@
 # 📍 BuscaCEP
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![API](https://img.shields.io/badge/API-ViaCEP-blue?style=for-the-badge)
+[![API](https://img.shields.io/badge/API-ViaCEP-blue?style=for-the-badge)](https://viacep.com.br/)
 ![Status](https://img.shields.io/badge/status-finalizado-green?style=for-the-badge)
 
 
